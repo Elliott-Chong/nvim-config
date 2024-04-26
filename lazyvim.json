@@ -1,0 +1,14 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.copilot",
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.editor.aerial",
+    "lazyvim.plugins.extras.editor.mini-files",
+    "lazyvim.plugins.extras.editor.mini-move",
+    "lazyvim.plugins.extras.formatting.black"
+  ],
+  "news": {
+    "NEWS.md": "3314"
+  },
+  "version": 3
+}
